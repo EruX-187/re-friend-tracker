@@ -1,6 +1,6 @@
 {
     "application": {
-        "title": "Requirements Engineering Friend Tracker ",
+        "title": "Requirements Engineering Friend Tracker Test",
         "formList": [
             {
                 "id": "FriendForm",
